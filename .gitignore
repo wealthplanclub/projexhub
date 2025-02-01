@@ -3,3 +3,15 @@
 ._CNAME
 ._README.md
 ._.gitignore
+._assets
+._css
+._index.htm
+._js
+assets/._.DS_Store
+assets/._bpe_phoenix.png
+assets/._circle.jpeg
+assets/._favicon.ico
+assets/._favicon.png
+assets/._purple_circle.gif
+css/._styles.css
+js/._scripts.js
