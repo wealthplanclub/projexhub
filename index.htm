@@ -343,5 +343,12 @@
         <script src="js/scripts.js"></script>
         <!-- Stripe Pricing-->
         <script async src=“https://js.stripe.com/v3/pricing-table.js”></script>
+        <!-- Current Year for Copyright-->
+        <script>
+        // Get the current year
+        const currentYear = new Date().getFullYear();
+        // Insert the current year into the HTML element with the id "current-year"
+        document.getElementById("current-year").textContent = currentYear;
+        </script>
     </body>
 </html>
